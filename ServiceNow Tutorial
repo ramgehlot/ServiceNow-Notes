@@ -10,3 +10,55 @@ Services of ServiceNow
 6.IT business management
 7.security operations
 8.virtual chatbots.
+
+Applications and Modules
+Lists and Forms :
+lists : Filtering the data (assigned to me , contains, resolved, active etc..)
+Forms : Short description and description part to be used to put data and continue the chain.
+
+Users, Roles and Groups
+Users are the individuals who use the ServiceNow within an organisation.
+Roles are associated with the task that a user performs within an organisation.
+Groups are the collection of users, which perform a similar task.
+
+ITIL stands for Information Technology Infrastructure Library.
+Stages of ITIL
+1.Service Strategy
+2.Service Design
+3.Service Transition
+4.Service Operation
+5.Continual Service Improvement (CSI)
+
+Processes in ITIL
+Change Management
+Incident Management
+Problem Management
+
+ServiceNow administration deals with general support, administration and maintenance of the ServiceNow platform for the organisation.
+
+ServiceNow Configuration
+The best way for the initial configuration of the ServiceNow is to use the “ITSM guided setup” application. 
+Generally, only system administrators have access to ITSM guided setup application.
+
+SLAs Configuration
+SLA stands for Service Level Agreement, which is a commitment or contract between the service provider and the service consumer (customer), 
+or it can also be commitment between various departments within an organisation. This contract clearly states the level of service that, 
+the provider should give, the response time, the resolution time of incidents, penalties (if any), uptime, system performance, etc.
+
+Workflows
+The ServiceNow defines workflow as sequence of activities to automate processes in applications. 
+It is basically a flowchart, which records all the activities to be triggered step by step, once the desired event has occurred.
+
+Development & Administration
+https://www.tutorialspoint.com/servicenow/servicenow_administration.htm
+https://www.tutorialspoint.com/servicenow/servicenow_development.htm
+
+ServiceNow - Mastering and Certification==
+You have two career options in the field of ServiceNow, which are as follows −
+ServiceNow developer
+ServiceNow administrators
+
+ServiceNow have divided the certifications in four main categories, which are as follows −
+Certified implementation specialist (CIS)
+Certified application developer (CAD)
+Certified application specialist (CAS)
